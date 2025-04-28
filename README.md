@@ -122,10 +122,5 @@ Email body content here...
 - Do not click on suspicious links or download attachments
 - Keep the tool and its dependencies updated
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
